@@ -23,7 +23,7 @@ git clone https://github.com/735Andrew/API_Workstation
 ```
 <br>
 Create a <b>.env</b> file in the root directory with the following variables: <br>
-<b>/Personal_Telegram_Bot/.env</b>
+<b>/API_Workstation/.env</b>
 
 ```commandline 
 POSTGRES_USER = <USER_VARIABLE>
